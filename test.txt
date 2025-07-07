@@ -1,1 +1,2 @@
 Hello from Red Hat EC2
+this is my project
